@@ -211,7 +211,7 @@ are not = aren't
 
 意思：a / an 一个、一台、一间、一 ...
 
-   	the 这，那，这些，那些
+​	   the 这，那，这些，那些
 
 ​	   the 后面是单数可译为这，那
 
@@ -322,7 +322,7 @@ skirt	/k/	/g/
 
 ​	    nose/hope
 
-  	  cute/tube
+​	    cute/tube
 
 - 自然拼读
 
