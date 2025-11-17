@@ -277,6 +277,14 @@ It's great to see you
 
 用于肯定句、疑问句句末
 
+- either
+
+用于否定句中
+
+- too和either的区别
+
+too和either都表示也的意思，但是too只能用于肯定句中或疑问句句末，either用于否定句中
+
 - make
 
 常用于询问品牌
@@ -339,3 +347,113 @@ skirt	/k/	/g/
 男女有别
 
 注重发音
+
+
+
+# Lesson 7~8
+
+#### 语法知识点
+
+- am be动词现在时第一人称单数
+
+be: am / is / are
+
+I am ... = I'm ...
+
+- are be动词现在时复数
+
+You are ... = You're ...
+
+We are ... = We're ...
+
+- is be动词现在时第三人称单数
+
+He is ... = He's ...
+
+She is ... = She's ...
+
+It is ... = It's ...
+
+- 特殊疑问句
+
+特殊疑问词 + be + 名称（n.）
+
+例如：What is your nationality ?
+
+​	    What is your WeChat ?
+
+以特殊疑问词**who,what,whose,how**等开头的疑问句成为特殊疑问句
+
+特殊疑问句的结构一般为：特殊疑问词+助动词+主语+实义动词+宾语
+
+
+
+#### 句型短语
+
+- What nationality are you?	你是什么国籍？
+
+也可以说 What is your nationality?
+
+- I'm + 国籍
+
+I'm Chinese / I'm American.
+
+- What's your job?	你是干什么工作的？
+
+询问职业，你是做什么工作的。
+
+- My job is + 职业
+
+I'm a doctor / I'm a teacher
+
+
+
+#### 口语知识点
+
+- Good job 
+
+意思是干得好、非常棒；口语中很常见的用来赞美别人的句子。
+
+
+
+#### 重点词汇
+
+- -ess:表示女性的后缀
+
+host 主人；hostess 女主人
+
+waiter 男服务员；waitress 女服务员
+
+actor 演员；actress 女演员
+
+tiger 老虎；tigress 母老虎
+
+
+
+#### 拓展词汇
+
+| 单词        | 音标                                             | 解释                               |
+| ----------- | ------------------------------------------------ | ---------------------------------- |
+| nationality | 英/ˌnæʃəˈnæləti/    美/ˌnæʃəˈnæləti/             | n. 族，民族；国籍                  |
+| engineer    | 英/ˌendʒɪˈnɪə(r)/    美/ˌendʒɪˈnɪr/              | n. 工程师，设计师；v. 设计，建造； |
+| cab         | 英/kæb/    美/kæb/                               | n. 出租车，的士；                  |
+| airhostess  | 英/eəhəʊstəs; eəhəʊˈstes                         | n. 空姐                            |
+| airline     | 英/ˈeəlaɪn/    美/ˈerlaɪn/                       | n. 航空，航线                      |
+| mechanic    | 英/məˈkænɪk; mɪˈkænɪk/    美/məˈkænɪk; mɪˈkænɪk/ | n. 机械工，机修工；                |
+| dresser     | 英/ˈdresə(r)/    美/ˈdresər/                     | n. 梳妆台；化妆师；                |
+| hairdresser | 英/ˈheədresə(r)/    美/ˈherdresər/               | n. 美发师                          |
+| housewife   | 英/ˈhaʊswaɪf/    美/ˈhaʊswaɪf/                   | n. 家庭主妇                        |
+
+
+
+#### 知识拓展
+
+- na**tion**ality 中的tion 通常发音都是/ʃə/ 例如：location / station 等
+- 自然拼读
+
+| 字母 | 读音 | 特点            | 示例                 |
+| ---- | ---- | --------------- | -------------------- |
+| Pp   | /p/  |                 | panda , puppy        |
+| Qq   | /kw/ | qu 永远会在一起 | queen , question     |
+| Rr   | /r/  |                 | rose , rice , rabbit |
+
