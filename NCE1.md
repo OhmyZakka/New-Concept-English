@@ -76,6 +76,8 @@ Thanks
 
 Thanks a lot
 
+Thank you very much 
+
 
 
 #### 重点词汇
@@ -456,4 +458,103 @@ tiger 老虎；tigress 母老虎
 | Pp   | /p/  |                 | panda , puppy        |
 | Qq   | /kw/ | qu 永远会在一起 | queen , question     |
 | Rr   | /r/  |                 | rose , rice , rabbit |
+
+
+
+# Lesson 9~10
+
+#### 语法知识点
+
+- 特殊疑问词 how
+
+意思是：如何，怎样
+
+口语句型：How are you?
+
+- How to + 动词？
+
+意思是：如何去做这个动词
+
+How  to open / use / do it? 如何打开/如何使用/如何去做
+
+
+
+#### 句型短语
+
+- How are you today?
+
+美语中常用 How are you doing today? 来代替
+
+- How are you ？的回应
+
+Fine. Thank you
+
+Great. 	很好
+
+Wonderful!	棒极了
+
+Not bad.	还不错
+
+Very bad	很不好
+
+Terrible	非常糟糕
+
+- Look at ... 看
+
+Loot at + 人 注意用人称宾格
+
+Loot at me / him / her ...
+
+- Look at 和 see 看&看见
+
+区别：look at 表示看的动作，而see意思是看见表示看的结果。
+
+
+
+#### 口语知识点
+
+- Nice and clean
+
+干干净净，口语中非常好用的搭配。
+
+
+
+#### 重点词汇
+
+- fat
+
+形容词，胖的，在表达时可用**a little heavy**替代是一种委婉的表达。
+
+- woman
+
+女人，在正式场合一般用另外一个词 **lady** 表示女士。
+
+- thin
+
+形容词，瘦的；在赞美别人身材苗条用另外一个词 **slim** 表示苗条的。you are so slim
+
+
+
+#### 拓展词汇
+
+| 单词  | 音标                      | 解释                              |
+| ----- | ------------------------- | --------------------------------- |
+| lady  | 英/ˈleɪdi/    美/ˈleɪdi/  | n. 女士；淑女；                   |
+| slim  | 英/slɪm/    美/slɪm/      | adj. 苗条的，纤细的；             |
+| heavy | 英/ˈhevi/    美/ˈhevi/    | adj. 重的，沉的；大量的，严重的； |
+| solid | 英/ˈsɒlɪd/    美/ˈsɑːlɪd/ | adj. 固体的，坚硬的；             |
+
+
+
+#### 知识拓展
+
+- 自然拼读
+
+| 字母 | 读音 | 特点             | 示例              |
+| ---- | ---- | ---------------- | ----------------- |
+| Ss   | /s/  | 有且只有一种发音 | sad,sit,solid,set |
+| Tt   | /t/  | 有且只有一种发音 | ten,tap,tip,top   |
+| Uu   | /ʌ/  |                  | umbrella, but,cup |
+
+
 
