@@ -558,3 +558,135 @@ Loot at me / him / her ...
 
 
 
+# Lesson 11~12 
+
+#### 语法知识点
+
+- 特殊疑问词 + be + 名词
+- 特殊疑问词 + 名词 + be 
+
+Whose is that shirt?	Whose shirt is that?	那是谁的衬衫？
+
+这两种句型都是一样的，但并不是所有的特殊疑问词都适用。
+
+whose + 名词（不限定）
+
+What + 名词（color, make,time,nationality）
+
+What color is it?	what make is your car?	what time is it?	what nationality are you?
+
+- 名词 + 's + 名词（有生命的或者是人的）
+
+- 物主代词
+
+| 物主代词 | 形容词 |
+| -------- | ------ |
+| 我的     | my     |
+| 你的     | your   |
+| 他的     | his    |
+| 她的     | her    |
+
+
+
+#### 句型短语
+
+- white lie
+
+善意的谎言
+
+
+
+#### 口语知识点
+
+- perhaps 大概
+
+perhaps it is.	可能是这样吧
+
+perhaps so.
+
+perhaps not.	可能不是这样的
+
+
+
+#### 重点词汇
+
+- blue 蓝色
+
+忧郁的	You are blue today.
+
+不健康的	It's a blue movie.
+
+贵族的	blue blood
+
+- white 白色
+
+the White House	白宫
+
+white lie	善意的谎言
+
+- catch 抓住、接着
+
+catch the thief	抓住小偷
+
+catch the ball	接球
+
+- father 父亲
+
+口语：Dad / Daddy	爸爸
+
+- mother 母亲
+
+口语：Mom / Mum / Mummy	妈妈
+
+- sister 姐姐，妹妹
+
+younger sister	妹妹
+
+elder sister	姐姐
+
+- brother 哥哥，弟弟
+
+younger brother	弟弟
+
+elder brother	哥哥
+
+
+
+#### 拓展词汇
+
+| 单词  | 音标                     | 解释                                                   |
+| ----- | ------------------------ | ------------------------------------------------------ |
+| blood | 英/blʌd/    美/blʌd/     | n. 血，血液；出身，血统；                              |
+| lie   | 英/laɪ/    美/laɪ/       | n. 谎言，谎话；                                        |
+| thief | 英/θiːf/    美/θiːf/     | n. 贼，小偷                                            |
+| voice | 英/vɔɪs/    美/vɔɪs/     | n. 嗓音，说话声，歌唱声；v. 表达，吐露（感情或意见）； |
+| wave  | 英/weɪv/    美/weɪv/     | n. 海浪；大海 v. 挥手；挥手示意；挥舞，挥动；          |
+| wet   | 英/wet/    美/wet/       | n. 雨，雨天 adj. 湿的，潮湿的；v. 把（某物）弄湿；     |
+| witch | 英/wɪtʃ/    美/wɪtʃ/     | n. 巫婆，巫师；v. 施魔法于；                           |
+| vivid | 英/ˈvɪvɪd/    美/ˈvɪvɪd/ | adj. 生动的，逼真的；（颜色）鲜艳的，明亮的；          |
+| exit  | 英/ˈeksɪt/    美/ˈeksɪt/ | n. 出口，通道， v. 退出（电脑程序）；                  |
+
+
+
+#### 知识拓展
+
+- 发音Tips
+
+white单词中 **wh** 组合发音只发其中一个字母的发音，要么发w的音，要么发h的音。
+
+- 自然拼读
+
+| 字母 | 读音 | 特点             | 示例                  |
+| ---- | ---- | ---------------- | --------------------- |
+| Vv   | /v/  | 上齿咬住下嘴唇   | very,vivid,voice,five |
+| Ww   | /w/  | 有且只有一种发音 | wet,witch,ware,what   |
+| Xx   | /ks/ | 有且只有一种发音 | fox,box,exit          |
+
+> 拼读的总规则：一辅一元，前辅后元。
+
+- 看电影学英语
+  - 选片	动画片
+  - 字幕        双语字幕
+  - 数量        一部电影反反复复去看
+  - 方法        记笔记
+
