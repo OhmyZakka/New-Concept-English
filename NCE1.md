@@ -690,3 +690,143 @@ white单词中 **wh** 组合发音只发其中一个字母的发音，要么发w
   - 数量        一部电影反反复复去看
   - 方法        记笔记
 
+
+
+# Lesson 13~14
+
+#### 语法知识点
+
+- What + 名词（make, time, nationality）
+
+What nationality are you? 你是什么国籍？
+
+What make is your cat? 你的车是什么牌子的？
+
+What time is it ? 几点了
+
+- 特殊疑问句
+
+语序：
+
+特殊疑问词 + be + 名词
+
+特殊疑问词 + 名词 + be + ...
+
+- 特殊疑问词
+
+what / whose / how ...
+
+- What 
+
+what + be + 名词	What is your name?
+
+what + 名词 + be	What color / time / make / nationality is 
+
+- Whose 
+
+whose + be + 名词	Whose is this shirt?
+
+whose + 名词 + be	Whose shirt is this?
+
+这两种句型表达意思一样
+
+- How  + be + 名词
+
+How are you?
+
+How is the weather?
+
+
+
+#### 句型短语
+
+- What color?
+
+What color is it?
+
+What color is your ...?
+
+- Here + 主语 + be
+
+Here it is. = it is here.
+
+I am here. = Here I am. 我在这。
+
+He is here. = Here he is. 他在这
+
+Here we go ... 咱们开始吧。
+
+- a lucky dog 幸运儿
+
+
+
+#### 口语知识点
+
+- What color?
+
+- What time is it ? 几点了？
+- come here. 过来
+- come and see it. 过来看看
+
+该句子可以拓展出下面几种
+
+Come and meet my Mom.
+
+Come and sit down
+
+Come and do it.
+
+
+
+#### 重点词汇
+
+- colour 颜色
+
+color 美式写法
+
+- green 绿色
+
+a green hand 新手
+
+- upstairs
+
+Come upstairs	上楼去
+
+Go downstairs	下楼去
+
+- same 相同的
+
+same 一般用法，在前面加the 。
+
+The same color / name /city
+
+- lovely 可爱的，漂亮的
+
+
+
+#### 拓展词汇
+
+| 单词      | 音标                                 | 解释                        |
+| --------- | ------------------------------------ | --------------------------- |
+| cap       | 英/kæp/    美/kæp/                   | n. 帽子                     |
+| hood      | 英/hʊd/    美/hʊd/                   | n. （衣服上的）兜帽，风帽； |
+| beautiful | 英/ˈbjuːtɪf(ə)l/    美/ˈbjuːtɪf(ə)l/ | adj. 美丽的，漂亮的；       |
+| cuckold   | 英/ˈkʌkəʊld/    美/ˈkʌkoʊld/         | v. 与（某人）的妻子通奸     |
+| suitcase  | 英/ˈsuːtkeɪs/    美/ˈsuːtkeɪs/       | n. 手提箱，衣箱             |
+| carpet    | 英/ˈkɑːpɪt/    美/ˈkɑːrpɪt/          | n. 地毯；                   |
+| puppy     | 英/ˈpʌpi/    美/ˈpʌpi/               | n. 小狗，                   |
+| blouse    | 英/blaʊz/    美/blaʊs/               | n. （女式）短上衣，衬衫；   |
+| zebra     | 英/ˈzebrə/    美/ˈziːbrə/            | n. 斑马；                   |
+
+
+
+#### 知识拓展
+
+- 自然拼读
+
+| 字母 | 读音 | 特点                         | 示例                  |
+| ---- | ---- | ---------------------------- | --------------------- |
+| Yy   | /j/  | 辅音发音，基本上是首字母出现 | yes,yoyo,yellow,yet   |
+| Yy   | /I/  | 元音发音                     | happy,lovely,cloudy   |
+| Zz   | /z/  | 有且只有一种发音             | zip,zero,zigzag,zebra |
+
