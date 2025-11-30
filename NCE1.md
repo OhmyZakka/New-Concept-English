@@ -830,3 +830,186 @@ The same color / name /city
 | Yy   | /I/  | 元音发音                     | happy,lovely,cloudy   |
 | Zz   | /z/  | 有且只有一种发音             | zip,zero,zigzag,zebra |
 
+
+
+# Lesson 15~16
+
+#### 语法知识点
+
+- 人称代词
+
+| 人称代词 |      |
+| -------- | ---- |
+| I        | 我   |
+| you      | 你   |
+| he       | 他   |
+| she      | 她   |
+| it       | 它   |
+| we       | 我们 |
+| they     | 它们 |
+
+- 名词的复数形式
+
+名词的复数形式一般加s或es
+
+如果名词以f或者fe结尾的，需要将f或者fe改成v再加es 发/vz/音
+
+名词的不规则复数形式 eg. man men
+
+- 名词的复数发音规则 -s/ -es发音规则
+
+**如果名词以清辅音结尾，发s音**
+
+**如果名词以浊辅音和元音结尾，发z音**
+
+**以s、sh、x、ch结尾的 + es 发/iz/音**
+
+**如果名词以/s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/ 结尾的，发/iz/音**
+
+**以o结尾的有生命的词 + es 发/z/音**
+
+土豆、西红柿、黑人、英雄
+
+potato	potatoes
+
+tomato	tomatoes
+
+Negro	Negroes
+
+hero	heroes
+
+**以o结尾没有生命的词 + s 发/z/**
+
+zoo	zoos
+
+radio	radio
+
+photo	photos
+
+**辅音字母 + y结尾的名词，变y为i + es /iz/**
+
+lady	ladies
+
+fly	flies
+
+**通常以复数形式出现的词**
+
+jeans
+
+pants
+
+shorts
+
+glasses
+
+
+
+#### 句型短语
+
+- Here they are. 给你
+
+They are here. 他们在这。
+
+- That's fine. 就这样吧！行了！
+
+
+
+#### 口语知识点
+
+- 名词 + please
+
+点餐时：A roast duck, please.
+
+购物时：This shirt, please.
+
+检票时：Your ID card, please.
+
+- That's fine. 
+
+就这样吧！行了！
+
+
+
+#### 重点词汇
+
+- brown 棕色的
+
+brown tea	红茶
+
+brown sugar	红糖，黑糖
+
+
+
+#### 拓展词汇
+
+| 单词                    | 音标                                 | 解释                                                 |
+| ----------------------- | ------------------------------------ | ---------------------------------------------------- |
+| customs                 | 英/ˈkʌstəmz/    美/ˈkʌstəmz/         | n. 海关；关税                                        |
+| customer                | 英/ˈkʌstəmə(r)/    美<br//ˈkʌstəmər/ | n. 顾客；                                            |
+| Chief Executive Officer |                                      | n. 首席执行官                                        |
+| Danish                  | 英/ˈdeɪnɪʃ/    美/ˈdeɪnɪʃ/           | adj. 丹麦的；丹麦人的；n. 丹麦语；丹麦人             |
+| Denmark                 | 英/ˈdenmɑːk/    美/ˈdenmɑːrk/        | n. 丹麦                                              |
+| Norwegian               | 英/nɔːˈwiːdʒən/    美/nɔːrˈwiːdʒən/  | n. 挪威语；挪威人  adj. 挪威的；挪威语的；挪威人的； |
+| Norway                  | 英/ˈnɔːweɪ/    美/ˈnɔːrweɪ/          | n. 挪威                                              |
+| Dutch                   | 英/dʌtʃ/    美/dʌtʃ/                 | n. 荷兰人；荷兰语 adj. 荷兰的，荷兰人的，荷兰语的    |
+| Holland                 | 英/ˈhɒlənd/    美/ˈhɑːlənd/          | n. 荷兰                                              |
+| visa                    | 英/ˈviːzə/    美/ˈviːzə/             | n. 签证 v. 签发签证                                  |
+| tourist                 | 英/ˈtʊərɪst/    美/ˈtʊrɪst/          | n. 旅行者，观光客；                                  |
+| dentist                 | 英/ˈdentɪst/    美/ˈdentɪst/         | n. 牙科医生；                                        |
+| artist                  | 英/ˈɑːtɪst/    美/ˈɑːrtɪst/          | n. 艺术家，美术家；                                  |
+| scientist               | 英/ˈsaɪəntɪst/    美/ˈsaɪəntɪst/     | n. 科学家                                            |
+| sightseeing             | 英/ˈsaɪtsiːɪŋ/    美/ˈsaɪtsiːɪŋ/     | n. 观光，游览                                        |
+| broken                  | 英/ˈbrəʊkən/    美/ˈbroʊkən/         | adj. 损坏的，破碎的                                  |
+
+
+
+#### 知识拓展
+
+- 词汇tips
+
+**-ist** 以ist结尾的大部分的单词都表示人的
+
+dentist	牙医
+
+artist	艺术家
+
+scientist	科学家
+
+**-er** 以er结尾的单词大部分也表示人
+
+teacher	老师
+
+worker	工人
+
+driver	司机
+
+**-or** 以or结尾的单词大部分也表示人
+
+doctor	医生
+
+director	导演
+
+- 出境/入境知识tips
+
+护照：passport
+
+现金：cash
+
+机票：return ticket
+
+在美国的住址：the address in America
+
+去干吗？：What's your purpose of visit?
+
+去旅游：For sightseeing/study
+
+- 自然拼读
+
+| 字母组合 | 读音         | 特点             | 示例                            |
+| -------- | ------------ | ---------------- | ------------------------------- |
+| ea       | /i:/         | 其中的一种发音   | tea、clean、eat                 |
+| ee       | /i:/         | 有且只有一种发音 | beef、feet、sleep、meet         |
+| ir       | /ə:/ 或 /ɜː/ | 有且只有一种发音 | sir、bird、firm、girl           |
+| er       | /ə/          |                  | dancer、cleaner、sister、summer |
+| ar       | /a:/         | 有且只有一种发音 | mark、hard、farm、bar           |
+
