@@ -1013,3 +1013,114 @@ director	导演
 | er       | /ə/          |                  | dancer、cleaner、sister、summer |
 | ar       | /a:/         | 有且只有一种发音 | mark、hard、farm、bar           |
 
+
+
+# Lesson 17~18
+
+#### 语法知识点
+
+- who 特殊疑问词，谁
+
+特殊疑问词 + be + 名词
+
+- 名词的单复数不规则
+
+man	men
+
+woman	women
+
+foot	feet
+
+tooth	teeth
+
+child	children
+
+单复数同形：sheep、fish
+
+
+
+#### 句型短语
+
+- How do you do
+
+幸会幸会，用于正式场合
+
+回答也是用how do you do.
+
+
+
+#### 口语知识点
+
+- 高频口语短句
+
+Come and sit down.
+
+Come and have a drink.
+
+Come and meet my friend.
+
+
+
+#### 重点词汇
+
+- assistant 助手
+
+
+
+#### 拓展词汇
+
+| 单词                | 音标                                       | 解释                                      |
+| ------------------- | ------------------------------------------ | ----------------------------------------- |
+| trainer             | 英/ˈtreɪnə(r)/    美/ˈtreɪnər/             | n. 教员，驯兽师，教练员；                 |
+| trainee             | 英/ˌtreɪˈniː/    美/ˌtreɪˈniː/             | n. 接受培训者，实习生                     |
+| representative      | 英/ˌreprɪˈzentətɪv/    美/ˌreprɪˈzentətɪv/ | n.代表，代理人；adj. 典型的，有代表性的； |
+| office assistant    |                                            | 办公室助理                                |
+| shop assistant      |                                            | 商场售货员                                |
+| classroom assistant |                                            | 助教                                      |
+| hurt                | 英/hɜːt/    美/hɜːrt/                      | adj. 疼痛，痛苦的                         |
+
+
+
+#### 知识拓展
+
+- 词汇tips
+
+-er    ...的人	    employer	雇佣者，雇主	         trainer	培训者
+
+-ee    被...的人	employee	雇员，被雇佣的人	trainee	被培训的人
+
+adj + doing 构词
+
+hard-working	勤奋的
+
+good-looking	好看的
+
+easy-going	好相处的
+
+- 西方人的姓氏来源
+
+西方人是先有的名字，后有的姓氏。
+
+西方人姓氏的来源：
+
+职业：Taylor、Baker
+
+颜色：White、Brown、Grey
+
+生活：Bird、Rice
+
+住址：Bridge、Hill
+
+名字+son：Peterson、Jackson
+
+- 自然拼读
+
+| 字母组合 | 读音 | 特点             | 示例                          |
+| -------- | ---- | ---------------- | ----------------------------- |
+| aw       | /ɔː/ | 有且只有一种发音 | law、paw、raw、saw            |
+| au       | /ɔː/ | 有且只有一种发音 | daughter、                    |
+| ght      | /t/  | 有且只有一种发音 | bought、fight、brought、right |
+| oo       | /ʊ/  | 短音             | look、book、good、wood        |
+| oo       | /uː/ | 长音             | tooth、boot、shoot、          |
+| ea       | /e/  |                  | head、bread、weather、dead    |
+
