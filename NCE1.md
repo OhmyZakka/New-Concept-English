@@ -26,12 +26,12 @@ be --- is,am,are
 
 - 人称代词的主格和宾格
 
-| 宾格 | 主格 |
+| 主格 | 宾格 |
 | ---- | ---- |
-| me   | I    |
+| I    | me   |
 | you  | you  |
-| her  | she  |
-| him  | he   |
+| she  | her  |
+| he   | him  |
 | it   | it   |
 
 
@@ -99,7 +99,7 @@ It is sunny today.
 | 单词      | 音标                               | 解释                    |
 | :-------- | :--------------------------------- | :---------------------- |
 | apartment | 英/əˈpɑːtmənt/    美 /əˈpɑːrtmənt/ | n. 公寓套房             |
-| couch     | 英/kəʊtʃ/    美/koʊtʃ/             | n. 长途客车，长途汽车； |
+| coach     | 英/kəʊtʃ/    美/koʊtʃ/             | n. 长途客车，长途汽车； |
 
 
 
@@ -838,15 +838,15 @@ The same color / name /city
 
 - 人称代词
 
-| 人称代词 |      |
-| -------- | ---- |
-| I        | 我   |
-| you      | 你   |
-| he       | 他   |
-| she      | 她   |
-| it       | 它   |
-| we       | 我们 |
-| they     | 它们 |
+| 人称代词 |      | 所有格形容词 |               |
+| -------- | ---- | ------------ | ------------- |
+| I        | 我   | my           | 我的          |
+| you      | 你   | your         | 你的          |
+| he       | 他   | his          | 他的          |
+| she      | 她   | her          | 她的          |
+| it       | 它   | its          | 它的          |
+| we       | 我们 | our          | 我们的        |
+| they     | 它们 | their        | 他们的/她们的 |
 
 - 名词的复数形式
 
@@ -1124,3 +1124,110 @@ easy-going	好相处的
 | oo       | /uː/ | 长音             | tooth、boot、shoot、          |
 | ea       | /e/  |                  | head、bread、weather、dead    |
 
+
+
+# Lesson 19~20
+
+#### 语法知识点
+
+- There be（is \ are） 句型结构
+
+there+be 表示某处有某物，主语为be动词后的名词，be动词需要根据名词的复数形式变化；
+
+there+be变成疑问句时，只需要将be动词提前到句首后面顺序不变，变否定句时，在be动词后面加上not；
+
+there+be后面有几个并列名词时，而第一个名词是单数，be动词用is。
+
+- 人称代词的主格和宾格
+
+| 主格 | 宾格 |
+| ---- | ---- |
+| I    | me   |
+| you  | you  |
+| he   | him  |
+| she  | her  |
+| we   | us   |
+| them | them |
+| it   | it   |
+| one  | one  |
+
+
+
+#### 句型短语
+
+- There be（is \ are）
+
+
+
+#### 口语知识点
+
+- 高频口语短句
+
+What's the matter	什么事？
+
+Have a seat		请坐
+
+All right	好，可以
+
+What's up	怎么了
+
+What's wrong        怎么了
+
+What's wrong with you ?         你怎么回事！
+
+Are you all right?        你还好吗？
+
+Are you ok?        
+
+- all right & OK 可以回答别人的提议
+
+
+
+#### 重点词汇
+
+- matter	n. 事情
+- tired        adj. 累，疲乏
+- thirsty        adj. 口渴的
+- tired and thirsty
+- beautiful and kind
+- tall and handsome
+- young and rich
+- tall, rich and handsome 
+
+
+
+#### 拓展词汇
+
+| 单词     | 音标            | 解释                              |
+| -------- | --------------- | --------------------------------- |
+| fridge   | 美  /frɪdʒ/     | n. 冰箱                           |
+| stage    | 美 /steɪdʒ/     | n. 阶段，时期                     |
+| judge    | 美 /dʒʌdʒ/      | n. 法官，审判官；裁判员，评判员； |
+| phrase   | 美 /freɪz/      | n. 短语，词组                     |
+| graph    | 美 /ɡræf/       | n. 图表，曲线图；坐标图；         |
+| physical | 美 /ˈfɪzɪk(ə)l/ | n. 物质的，物理的                 |
+| whole    | 美 /hoʊl/       | adj. 全部的，整个的；             |
+| slide    | 美 /slaɪd/      | n. 滑梯；滑道；                   |
+| crime    | 美 /kraɪm/      | 罪，罪行；                        |
+
+
+
+#### 知识拓展
+
+- 自然拼读
+
+| 字母组合 | 读音     | 特点                                                         | 示例                                                     |
+| -------- | -------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| **a-e**  | /eɪ/     | a+辅音+e;字母e不发言；元+辅音+e：元音字母发自己的本音,e不发音 | take、name、late、face、table、plane、                   |
+| ay       | /eɪ/     |                                                              | day、way、pray、say                                      |
+| ey       | /eɪ/     |                                                              | grey、they、hey、ley                                     |
+| **i-e**  | /aɪ/     | 元+辅音+e：元音字母发自己的本音,e不发音                      | like、bike、nice、kite、fine、white、smile、slide、crime |
+| ie       | /aɪ/     |                                                              | tie、lie、pie、                                          |
+| **o-e**  | /əʊ/     | 元+辅音+e：元音字母发自己的本音,e不发音                      | hope、note、wrote、phone                                 |
+| oa       | /əʊ/     |                                                              | boat、goat、coat、float                                  |
+| ow       | /əʊ/     | ow 可能会发其中一个发音是发/əʊ/                              | yellow、follow、slow、window                             |
+| **e-e**  |          | 元+辅音+e：元音字母发自己的本音,e不发音                      | these                                                    |
+| **u-e**  |          | 元+辅音+e：元音字母发自己的本音,e不发音                      | cute                                                     |
+| ge       | /dʒ/     |                                                              | page、fridge、stage、judge                               |
+| wh       | /w/& /h/ | wh- 字母组合通常自发其中一个音要不发/w/ 要不发/h/            | what、why、who、whole、white、                           |
+| ph       | /f/      |                                                              | photo、phrase、graph                                     |
