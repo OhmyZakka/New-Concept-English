@@ -1231,3 +1231,103 @@ Are you ok?
 | ge       | /dʒ/     |                                                              | page、fridge、stage、judge                               |
 | wh       | /w/& /h/ | wh- 字母组合通常自发其中一个音要不发/w/ 要不发/h/            | what、why、who、whole、white、                           |
 | ph       | /f/      |                                                              | photo、phrase、graph                                     |
+
+
+
+# Lesson 21~22
+
+#### 语法知识点
+
+- 特殊疑问词 which
+
+特殊疑问词 + be + 名词
+
+特殊疑问词 + 名词 + be ...
+
+Which is your book？
+
+- 简单句的句型结构
+  - 主+谓
+  - 主+谓+宾
+  - 主+谓+宾+宾
+  - 主+谓+宾+宾补
+  - 主+系+表
+
+
+
+#### 句型短语
+
+
+
+#### 口语知识点
+
+- I'm full	我饱了
+- a full time job
+- a part time job
+
+
+
+#### 重点词汇
+
+- give	给
+
+give + 人称代词宾格
+
+give me \ her \ him \ them \ us ...
+
+- one	一个 pron.（代词）
+
+the blue one = the blue coat / dress
+
+the short one = the short girl / pencil ...
+
+i like the cheap one 
+
+- which	哪一个，哪一些
+
+哪一个还是哪一些取决于后面单词的单复数。
+
+Which book?
+
+Which books?
+
+Which tourist?
+
+Which tourists?
+
+
+
+#### 拓展词汇
+
+| 单词       | 音标                              | 解释                                                |
+| ---------- | --------------------------------- | --------------------------------------------------- |
+| cheap      | 英/tʃiːp/  美/tʃiːp/              | adj. 便宜的，廉价的；                               |
+| street     | 英/striːt/    美/striːt/          | n. 街道                                             |
+| hole       | 英/həʊl/    美/hoʊl/              | n. 洞，坑；裂口，开口；                             |
+| inside     | 英/ˌɪnˈsaɪd/    美/ˌɪnˈsaɪd/      | prep. 在（或向）……内，在（或向）……里；              |
+| alone      | 英/əˈləʊn/    美/əˈloʊn/          | adj. 独自的；单独的；adv. 独自，单独；              |
+| smaller    | 英/smɔ:lə(r)/美    /ˈsmɔːlər/     | adj. 较小，更小的                                   |
+| claws      | 英/klɔːz/   美/klɔːz/             | n. （动物的）爪，爪子；                             |
+| chopsticks | 英/ˈtʃɒpstɪks/    美/ˈtʃɑːpstɪks/ | n. 筷子                                             |
+| moist      | 英/mɔɪst/    美/mɔɪst/            | adj. 潮润的，微湿的；（地区或空气）潮湿的，多雨的； |
+| large      | 英/lɑːdʒ/    美/lɑːrdʒ/           |                                                     |
+| little     | 英/lɑːdʒ/    美/lɑːrdʒ/           | adj. （尺寸、范围、容量）大的；广泛的，重要的；     |
+| sharp      | 英/ʃɑːp/    美/ʃɑːrp/             | adj. 锋利的，尖的；                                 |
+| blunt      | 英/blʌnt/    美/blʌnt/            | adj. 钝的，不锋利的；                               |
+| bowl       | 英/bəʊl/    美/boʊl/              | n. 碗，盆；                                         |
+
+
+
+#### 知识拓展
+
+- 自然拼读
+
+| 字母组合 | 读音        | 特点                     | 示例                    |
+| -------- | ----------- | ------------------------ | ----------------------- |
+| ow       | /aʊ/        | 最张的从大到小，夸张一些 | now、how、cow、allow    |
+| ou       | /aʊ/        |                          | house、blouse           |
+| oy       | /ɔɪ/        |                          | toy、boy、joy、oyster   |
+| oi       | /ɔɪ/        |                          | oil、coin、moist        |
+| ear      | /ɪə/   /ɪr/ |                          | dear、near、fear、hear  |
+| eer      | /ɪə/   /ɪr/ |                          | deer、beer、steer、jeer |
+| ear      | /ə/   /ɜː/  |                          | early、earth、earn      |
