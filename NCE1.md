@@ -1331,3 +1331,89 @@ Which tourists?
 | ear      | /ɪə/   /ɪr/ |                          | dear、near、fear、hear  |
 | eer      | /ɪə/   /ɪr/ |                          | deer、beer、steer、jeer |
 | ear      | /ə/   /ɜː/  |                          | early、earth、earn      |
+
+
+
+# Lesson 23~24
+
+#### 语法知识点
+
+- 介词短语做后置定语，介词短语后置，倒着翻译
+
+the ones on the shelf
+
+- 介词 prep
+- 介词：连接两个词或词与句子。
+- 句子中使用介词时，别忘记动词
+
+The book is on the desk
+
+I sit on the floor
+
+There is a shoe on the floor
+
+
+
+#### 句型短语
+
+- which + 单数名词，表示哪个
+
+- Which + 复数名词，表示哪些
+
+  
+
+#### 口语知识点
+
+
+
+#### 重点词汇
+
+- on         在......上面
+
+on the table
+
+on the floor
+
+- in          在......里面
+
+- shelf       架子、隔板
+- some        一些，通常+复数名词
+
+some books
+
+some cups
+
+some boxes
+
+some knive
+
+
+
+#### 拓展词汇
+
+| 单词           | 音标                                     | 解释                              |
+| -------------- | ---------------------------------------- | --------------------------------- |
+| plate          | 英/pleɪt/        美/pleɪt/               | n. 盘子                           |
+| cupboard       | 英/ˈkʌbəd/        美/ˈkʌbərd/            | n. 橱柜，衣柜；壁橱；小储藏室     |
+| cigarette      | 英/ˌsɪɡəˈret/        美/ˈsɪɡəret/        | n. 香烟                           |
+| television     | 英/ˈtelɪvɪʒ(ə)n/        美/ˈtelɪvɪʒ(ə)n/ | n. 电视，电视机；                 |
+| dressing table | 英/ˈdresɪŋ/      美/ˈdresɪŋ/             | v. 给……穿衣服；打扮               |
+| magazine       | 英/ˌmæɡəˈziːn/      美/ˈmæɡəziːn/        | n. 杂志，期刊；                   |
+| stereo         | 英/ˈsteriəʊ/        美/ˈsterioʊ/         | n. 立体声，立体声效果；立体声音响 |
+| saucer         | 英/ˈsɔːsə(r)/        美/ˈsɔːsər/         | n. 茶碟，茶托                     |
+| barge          | 英/bɑːdʒ/        美/bɑːrdʒ/              | n. 驳船，平底载货船；华丽大游艇； |
+| moist          | 英/mɔɪst/    美/mɔɪst/                   | adj. 潮润的，微湿的；             |
+
+
+
+#### 知识拓展
+
+| 字母组合 | 读音            | 特点 | 示例             |
+| -------- | --------------- | ---- | ---------------- |
+| air      | /eə/ /er/  /ɜə/ |      | fair、hair、pair |
+| ear      | /eə/ /er/  /ɜə/ |      | wear、rear、pear |
+| ear      | /ɪə/            |      |                  |
+| ear      | /ə:/            |      |                  |
+
+
+
