@@ -1408,6 +1408,8 @@ some knive
 
 #### 知识拓展
 
+- 自然拼读
+
 | 字母组合 | 读音            | 特点 | 示例             |
 | -------- | --------------- | ---- | ---------------- |
 | air      | /eə/ /er/  /ɜə/ |      | fair、hair、pair |
@@ -1417,3 +1419,120 @@ some knive
 
 
 
+# Lesson 25~26
+
+#### 语法知识点
+
+- 冠词用法总结：
+
+  - 初次出现，不了解，不确定，用不定冠词 a / an
+  - 再次出现，了解了，确定了，用定冠词 the
+
+- There be 句型
+
+  - 构成：There be(is、are) + 地点
+
+  - 用法：
+
+    有：拥有 have
+
+    有：存在 there be     某个地方有某样东西
+
+  - 分类：there be
+
+    There is ... + 单数名词
+
+    There are ... + 复数名词
+
+  - 翻译：在...地方有...
+
+  - 就近原则
+
+    考虑离be动词最近的名词是复数还是单数，来决定是用there is 还是there are.
+
+
+
+#### 句型短语
+
+- 所在位置：there be 句型
+- 颜色：it is + 颜色
+- 具体位置：on the right/left、in the middle 
+
+​	on the right
+
+​	on the left
+
+​	in the middle
+
+​	in the middle of
+
+- 状态：it is clean \ empty\ big \ small
+
+
+
+#### 口语知识点
+
+- on the right	在右边
+- on the left           在左边
+- in the middle      在中间
+- in the middle of       在......中间
+
+
+
+#### 重点词汇
+
+- Where  哪里
+
+  用法：特殊疑问词 + be 的形式，where is / are + 名词...?
+
+- In 在...里面
+
+
+
+#### 拓展词汇
+
+| 单词         | 音标                                             | 解释                                |
+| ------------ | ------------------------------------------------ | ----------------------------------- |
+| kitchen      | 英/ˈkɪtʃɪn/       美/ˈkɪtʃɪn/                    | n. 厨房                             |
+| refrigerator | 英/rɪˈfrɪdʒəreɪtə(r)/        美/rɪˈfrɪdʒəreɪtər/ | n. 冰箱，冷藏库                     |
+| fridge       | 英/frɪdʒ/        美/frɪdʒ/                       | n. 冰箱                             |
+| electric     | 英/ɪˈlektrɪk/        美/ɪˈlektrɪk/               | adj. 电的 n. 电路系统；电气交通工具 |
+| shaver       | 英/ˈʃeɪvə(r)/       美/ˈʃeɪvər/                  | n. 电动剃须刀                       |
+| cooker       | 英/ˈkʊkə(r)/        美/ˈkʊkər/                   |                                     |
+
+
+
+#### 知识拓展
+
+- 自然拼读
+
+| 字母组合 | 读音 | 特点 | 示例                        |
+| -------- | ---- | ---- | --------------------------- |
+| sh       | /ʃ/  |      | English、brush、she、shoe   |
+| su       | /ʒ/  |      | measure、leisure            |
+| th       | /θ/  |      | three、thin、beneath、thank |
+| th       | /ð/  |      | they、that、these           |
+
+- 介词 in
+
+  - 恋爱：in love 
+
+    He is in love
+
+  - 三合一：three in one
+
+  - all in one
+
+  - In + 语言，用... please speak in English 
+
+  - In + 颜色
+
+    穿着...颜色的衣服   There girl is in red
+
+  - In cash   使用现金
+
+    Pay in cash
+
+  - In the rain    冒雨
+
+    They walk in the rain
