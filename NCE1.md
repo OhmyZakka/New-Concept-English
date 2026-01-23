@@ -1536,3 +1536,84 @@ some knive
   - In the rain    冒雨
 
     They walk in the rain
+
+
+
+# Lesson 27~28
+
+#### 语法知识点
+
+- There be 的复数形式
+  - There is a + 单数名词
+  - There are some + 复数名词
+
+- 介词 prep.	连接两个词或词与句子
+
+  - on 在...上面
+  - in 在...里面
+  - of 属于
+  - near 靠近，旁边
+
+- 句子中使用介词时，别忘记动词。
+
+  The money is in the bag        钱在包里
+
+  The money in the bag  	在包里的钱
+
+#### 句型短语
+
+- There be 句型
+
+在什么地方有什么
+
+There is a sofa in the living room.
+
+There are some pictures on the wall.
+
+
+
+#### 口语知识点
+
+
+
+#### 重点词汇
+
+
+
+#### 词汇&拓展词汇
+
+| 单词       | 音标                                       | 解释                                               |
+| ---------- | ------------------------------------------ | -------------------------------------------------- |
+| near       | 英/nɪə(r)        /美/nɪr/                  | prep. 在......附近，靠近；接近（某时间、某事件）； |
+| television | 英/ˈtelɪvɪʒ(ə)n/          美/ˈtelɪvɪʒ(ə)n/ | n. 电视，电视机；电视业                            |
+| window     | 英/ˈwɪndəʊ/        美/ˈwɪndoʊ/             | n. 窗，窗玻璃；视窗                                |
+| armchair   | 英/ˈɑːmtʃeə(r)/        美/ˈɑːrmtʃer/       | n. 扶手椅                                          |
+| door       | 英/dɔː(r)/        美/dɔːr/                 | n. 门；门口                                        |
+| picture    | 英/ˈpɪktʃə(r)/        美/ˈpɪktʃər/         | n. 图片，绘画；照片；肖像；                        |
+| trousers   | 英/ˈtraʊzəz/        美/ˈtraʊzərz/          | n. 裤子，长裤； 裤子，长裤（trouser 的复数）       |
+| pants      | 英/pænts/        美/pænts/                 | n.  <美> 裤子；                                    |
+| gloves     | 英/ɡlʌvz/        美/ɡlʌvz/                 | n. [服装]手套（glove 的复数）                      |
+| cigarette  | 英/ˌsɪɡəˈret/        美/ˈsɪɡəret/          | n. 香烟，纸烟；                                    |
+| travel     | 英/ˈtræv(ə)l/       美/ˈtræv(ə)l/          | n. 旅行；（出国）旅游；                            |
+| troy       | 英/trɔɪ/        美/trɔɪ/                   | n. 特洛伊（美国纽约州一城市）                      |
+| magazine   | 英/ˌmæɡəˈziːn/          美/ˈmæɡəziːn/      | n. 杂志，期刊；                                    |
+
+
+
+#### 知识拓展
+
+- 自然拼读
+
+| 字母组合 | 读音 | 特点                      | 示例                           |
+| -------- | ---- | ------------------------- | ------------------------------ |
+| ch       | /tʃ/ | 通常出现ch组合都发这个音  | cheese、French、China、lunch   |
+| tch      | /tʃ/ | 通常出现tch组合都发这个音 | match、batch、catch、bitch     |
+| -ge      | /dʒ/ |                           | orange、page、bridge、judge    |
+| tr       | /tr/ |                           | tree、trip、travel、troy       |
+| -ts      | /ts/ |                           | shirts、skirts、boots、tickets |
+| dr       | /dr/ |                           | drop、drive、dry、dream        |
+| -ds      | /dz/ |                           | birds、lands、hands、goods     |
+
+- 有始有终
+
+There is a beginning，a middle，and an end.
