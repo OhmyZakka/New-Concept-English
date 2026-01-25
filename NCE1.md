@@ -1617,3 +1617,152 @@ There are some pictures on the wall.
 - 有始有终
 
 There is a beginning，a middle，and an end.
+
+
+
+# Lesson 29~30
+
+#### 语法知识点
+
+- 祈使句：用来表示命令、请求、建议等；
+
+  - 表示命令：动词原形+...
+
+    Shut the door.
+
+  - 表示请求：please + 动词原形+ ...
+
+  - 表示建议：Let's + 动词原形+ ...
+
+    Let's go ,ok?
+
+- 祈使句的特点：
+
+  - 没有主语
+
+  - 动词打头
+
+    Come in.
+
+    Shut the door.
+
+    Open the window
+
+    Air the room...
+
+
+
+#### 句型短语
+
+- What must I do ?	我该干什么？
+
+  What must I say / read / clean ...  ?
+
+- Where must I go / live /stay ...?
+
+- Who must I meet / love / invite ...?
+
+- Which must I like / take / find ...?
+
+- 动词短语
+  
+  make the bed
+  
+  Sweep the floor
+  
+  dust the table
+  
+- 动词词组
+
+  put on       穿上，戴上
+
+  take off	脱下，卸下
+
+  turn on         打开
+
+  trun off        关掉
+
+  trun on / off the television
+
+  trun on / off the radio
+
+  trun on / off the light
+
+  trun on / off the tap
+
+  
+
+#### 口语知识点
+
+- you must go out !
+- can you go out please ?
+- My mind is empty.
+
+
+
+#### 重点词汇
+
+- 情态动词------表示情感，态度
+
+  - must	必须
+  - can           可以，能够
+
+- then      然后
+
+  Then put these clothes in the wardrobe.
+
+  Then make the bed
+
+  Then sweep the floor
+
+- First ... Then / and ... And then
+
+- sharpen         使锋利
+
+- adj. + en = v.
+
+  sharp + en = sharpen       使锋利
+
+  short + en = shorten         缩短
+
+  weak + en = weaken         削弱
+
+
+
+#### 词汇&拓展词汇
+
+| 单词     | 音标                                         | 解释                             |
+| -------- | -------------------------------------------- | -------------------------------- |
+| untidy   | 英/ʌnˈtaɪdi/        美/ʌnˈtaɪdi/             | adj. 不整洁的，凌乱的；          |
+| fresh    | 英/freʃ/        美/freʃ/                     | adj. 新鲜的；                    |
+| dust     | 英/dʌst/        美/dʌst/                     | n. 沙尘；灰尘；v. 擦去……的灰尘   |
+| pocket   | 英/ˈpɒkɪt/        美/ˈpɑːkɪt/                | n. 衣袋，口袋；v. 把……放入口袋； |
+| clothes  | 英/kləʊðz/        美/kloʊðz/                 | n. 衣服，衣物；                  |
+| wardrobe | 英/ˈwɔːdrəʊb/          美/ˈwɔːrdroʊb/        | n. 衣柜，衣橱；                  |
+| closet   | 英/ˈklɒzɪt/         美/ˈklɑːzɪt/             | n. 壁橱，储藏室；                |
+| sweep    | 英/swiːp/        美/swiːp/                   | v. 打扫，清除；n. 打扫，清扫；   |
+| restroom | 英/ˈrestruːm; ˈrestrʊm/        美/ˈrestruːm/ | n. 公共厕所                      |
+| ordinary | 英/ˈɔːd(ə)n(ə)ri/        美/ˈɔːrd(ə)neri/    | adj. 普通的，平常的；            |
+
+
+
+#### 知识拓展
+
+| 字母组合 | 读音  | 特点 | 示例                             |
+| -------- | ----- | ---- | -------------------------------- |
+| -all     | /ɔːl/ |      | wall、ball、fall、small          |
+| -ary     | /ərɪ/ |      | January、ordinary                |
+| -ew      | /juː/ |      | new、few、knew、view             |
+| -ight    | /aɪt/ |      | fight、night、light、bright      |
+| -ire     | /aɪə/ |      | fire、tired、hire、wire          |
+| -ought   | /ɔːt/ |      | bouhgt、thought、brought、sought |
+
+- 洗手间的说法
+  - bathroom
+  - restroom
+  - washroom
+  - toilet
+  - loo
+  - lavatory
+  - ladies' room / men's room
+
